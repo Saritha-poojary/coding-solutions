@@ -1,4 +1,4 @@
-# Select By ID
+# Select All
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -24,11 +24,10 @@ The **CITY** table is described as follows:
 **Language:** db2  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-19T08:42:28.675Z  
+**Submitted:** 2026-11-19T08:40:36.867Z  
 
 ```db2
-SELECT * FROM CITY
-WHERE ID = 1661;
+SELECT * FROM CITY;
 
 ```
 
